@@ -1,6 +1,7 @@
 asdasd
+ads
 /**
- * Created by bahadiri on 29.1.2016.
+ * Created by bahadiri oasdn 29.1.2016.
  */
 console.log("hello bahadir");
-kivanc
+kivancasd
