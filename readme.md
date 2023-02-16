@@ -1,1 +1,1 @@
-testing nma access
+test for username and mail
